@@ -43,3 +43,6 @@ pytest_session.txt
 **/.ipynb_checkpoints/
 .pre-commit-config.yaml
 towncrier.toml
+
+# Virtual env
+.env
